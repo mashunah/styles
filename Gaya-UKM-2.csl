@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" and="symbol" demote-non-dropping-particle="never">
   <info>
-    <title>Gaya UKM - Noraini Talib</title>
-    <title-short>GayaUKM-NT</title-short>
-    <id>http://csl.mendeley.com/styles/25600161/Gaya-UKM-2</id>
-    <link href="http://www.zotero.org/styles/apa" rel="self"/>
+    <title>Universiti Kebangsaan Malaysia</title>
+    <title-short>UKM</title-short>
+    <id>http://csl.mendeley.com/styles/25600161/Universiti-Kebangsaan-Malaysia</id>
+    <link href="http://www.zotero.org/styles/original-style" rel="template"/>
     <link href="http://owl.english.purdue.edu/owl/resource/560/01/" rel="documentation"/>
     <author>
       <name>Simon Kornblith</name>
       <email>simon@simonster.com</email>
     </author>
     <contributor>
-      <name>Curtis M. Humphrey</name>
-    </contributor>
-    <contributor>
       <name>Noraini Talib</name>
       <uri>http://www.mendeley.com/profiles/noraini-talib1/</uri>
       <email>noraini.tlb@gmail.com</email>
-    </contributor>
-    <contributor>
-      <name>Bruce D'Arcus</name>
-    </contributor>
-    <contributor>
-      <name>Sebastian Karcher</name>
-    </contributor>
-    <contributor>
-      <name>Richard Karnesky</name>
-      <email>karnesky+zotero@gmail.com</email>
-      <uri>http://arc.nucapt.northwestern.edu/Richard_Karnesky</uri>
     </contributor>
     <category citation-format="author-date"/>
     <category field="psychology"/>
